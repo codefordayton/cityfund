@@ -13,7 +13,7 @@ $(document).ready(function(){
   addPinPoint(map, 39.768917, -84.1429034, "red", 100);
   addPinPoint(map, 39.7690566, -84.1433837, "red", 100);
   addPinPoint(map, 39.7375402, -84.1465927, "red", 100);
-  addPinPoint(map, 39.7375209,   -84.1459058, "red", 100);
+  addPinPoint(map, 39.7375209, -84.1459058, "red", 100);
 
 
 });
